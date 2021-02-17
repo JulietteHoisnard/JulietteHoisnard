@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently a freelancer working as a Frontend developer in React.js at 2tonnes. I´m also a teacher assistant at Le Wagon from times to times.
+🔭 I’m currently Frontend developer in React / Redux at 2tonnes in remote. I´m also a teacher assistant at Le Wagon from times to times.
 
 👯 I’m looking to collaborate on other missions, remote or located in Berlin! I'm open to fulltime positions too.
 

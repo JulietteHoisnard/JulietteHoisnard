@@ -1,7 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently a Frontend developer in React / Redux at 2tonnes in remote. I´m also a teacher assistant at Le Wagon from times to times.
-
-👯 I’m looking to collaborate on other missions, remote or located in Berlin! I'm open to fulltime positions too.
+🔭 I’m currently a Frontend developer in React / Redux at 2tonnes in remote.
 
 📫 How to reach me:
   Go visit my [website](https://juliette.hoisnard.fr/) to know everything about my projects.

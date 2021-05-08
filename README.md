@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently a Frontend developer in React / Redux at 2tonnes in remote.
+🔭 I’m currently a Frontend developer at Inno-focus businessconsulting GmbH in Berlin.
 
 📫 How to reach me:
   Go visit my [website](https://juliette.hoisnard.fr/) to know everything about my projects.

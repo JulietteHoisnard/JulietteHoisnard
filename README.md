@@ -1,11 +1,11 @@
 ### Hi there 👋
-🔭 I’m currently a Frontend developer at Inno-focus businessconsulting GmbH in Berlin.
+🔭 I’m currently a Consultant in Software Development at Netlight in Berlin.
 
 📫 How to reach me:
   Go visit my [website](https://juliette.hoisnard.fr/) to know everything about my projects.
   To be up to date, check also my [blog](https://juliette.hoisnard.fr/blog/).
  
- ⚡ Fun fact: I love cycling 🚴‍♀️ around Berlin and dancing 💃!
+ ⚡ Fun facts: I love cycling 🚴‍♀️ around Berlin and dancing 💃!
 
 
 <!--
